@@ -5,3 +5,12 @@
 tags
 .DS_Store
 .gdb_history
+
+Makefile
+*.make
+
+*.vcxproj*
+*.sln
+
+*.build
+*.xcodeproj
